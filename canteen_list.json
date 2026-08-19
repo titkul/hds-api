@@ -1,1 +1,27 @@
-
+{
+  "canteenList": [
+    {
+      "name": "Demo",
+      "baseUrl": "https://demo-payment.titkul.edu.vn",
+      "devices": [
+        "post_1234567"
+      ]
+    },
+    {
+      "name": "Trường THCS Lý Thánh Tông",
+      "baseUrl": "https://cantin-ltt.titkul.edu.vn"
+      "devices": [
+        "Pos_ltt_0001",
+        "Pos_ltt_0002"
+      ]
+    },
+    {
+      "name": "Trường THCS Huỳnh Tấn Phát",
+      "baseUrl": "https://cantin-htp.titkul.edu.vn"
+      "devices": [
+        "htp_post_001",
+        "htp_post_002"
+      ]
+    }
+  ]
+}
