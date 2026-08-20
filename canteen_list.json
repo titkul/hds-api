@@ -4,7 +4,7 @@
       "name": "Demo",
       "baseUrl": "https://demo-payment.titkul.edu.vn",
       "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbQN4N9v7zYWm5W_WVynpt63L6h_-5Hga9wJ7aw1lnenxsHzZOK6S-MRc&s=10",
-      "adress": "Titkul Canteen",
+      "address": "Titkul Canteen",
       "devices": [
         "post_1234567"
       ]
@@ -13,7 +13,7 @@
       "name": "Trường THCS Lý Thánh Tông",
       "baseUrl": "https://cantin-ltt.titkul.edu.vn",
       "imgUrl": "https://filethcs.hcm.shieldix.app/uploadimages/config/2025/thcslythanhtong/1_231020251413.png",
-      "adress": "481 Ba Đình, Chánh Hưng",
+      "address": "481 Ba Đình, Chánh Hưng",
       "devices": [
         "Pos_ltt_0001",
         "Pos_ltt_0002"
