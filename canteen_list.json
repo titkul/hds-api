@@ -29,6 +29,15 @@
         "htp_post_001",
         "htp_post_002"
       ]
-    }
+    },
+    {
+      "name": "Auto Debit test",
+      "baseUrl": "https://canteen-dev.titkul.com",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbQN4N9v7zYWm5W_WVynpt63L6h_-5Hga9wJ7aw1lnenxsHzZOK6S-MRc&s=10",
+      "address": "Titkul Canteen",
+      "devices": [
+        "a18617cbe6ce0f4de987f0b3924beef7153fceeb41922519925ab6522d883355"
+      ]
+    },
   ]
 }
