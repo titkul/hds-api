@@ -38,6 +38,16 @@
       "devices": [
         "a18617cbe6ce0f4de987f0b3924beef7153fceeb41922519925ab6522d883355"
       ]
+    },
+    {
+      "name": "Trường THCS Trần Phú",
+      "codeName": "THCS_TP"
+      "baseUrl": "https://cantinso.titkul.com",
+      "imgUrl": "https://filethcs.hcm.shieldix.app/uploadimages/config/2025/thcstranphuq12/logo-tran-phu-moi-do-ben-doi-tac-lam_18820251458.jpg",
+      "address": "157 Tân Thới Nhất 8, Đông Hưng Thuận",
+      "devices": [
+        "c91634fed735fa230078d558ed6772f90aa4dc2f2358455ea6e0eb865afb7b3a"
+      ]
     }
   ]
 }
